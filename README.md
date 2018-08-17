@@ -1,7 +1,7 @@
 # Webpack4-React-Boilerplate
 A complete Webpack React Boilerplate with basic features to kickstart your ReactJs website
 
-### Clone the repo cd into the Webpack4-React-Boilerplate and follow the steps below:
+### Clone the repo & cd into the Webpack4-React-Boilerplate then follow the steps below:
 
 #### 1. Initialize a package.json
   ```
