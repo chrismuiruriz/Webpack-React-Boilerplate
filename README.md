@@ -10,7 +10,8 @@ A complete Webpack React Boilerplate with basic features to kickstart your React
 #### 2. Open up `package.json` and add the following code
   ```
   "scripts": {
-    "build": "webpack"
+    "start":"webpack-dev-server --mode development --open",
+    "build": "webpack --mode production"
   }
   ```
 #### 3. Install Webpack
